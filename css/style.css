@@ -1,0 +1,33 @@
+.tittle,
+.tittle__sub,
+.tittle__desc {
+  text-align: center;
+}
+
+.home__work {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.work__list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.list__item {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 15px 0px;
+  transition: 0.5s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list__item:hover {
+  background-color: brown;
+}
+/*# sourceMappingURL=style.css.map */
