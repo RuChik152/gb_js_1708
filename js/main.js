@@ -22,22 +22,22 @@ workList.onclick = function (e) {
                     homeWork3();
                     break;
                 case 3:
-                    homeWork3();
+                    homeWork4();
                     break;
                 case 4:
-                    homeWork3();
+                    homeWork5();
                     break;
                 case 5:
-                    homeWork3();
+                    homeWork6();
                     break;
                 case 6:
-                    homeWork3();
+                    homeWork7();
                     break;
                 case 7:
-                    homeWork3();
+                    homeWork8();
                     break;
                 case 8:
-                    homeWork3();
+                    homeWork9();
                     break;
             }
         }
